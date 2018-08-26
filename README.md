@@ -1,1 +1,1 @@
-# HackerRank_python_intro
+# HackerRank_practice_python
